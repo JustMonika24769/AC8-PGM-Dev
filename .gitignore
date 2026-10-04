@@ -1,0 +1,29 @@
+# Local configuration and generated game mappings
+src/AC8AssetPatcher/config.json
+src/AC8AssetPatcher/Mappings.usmap
+
+# External tools and proprietary runtime components
+src/AC8AssetPatcher/tools/*.exe
+src/AC8AssetPatcher/tools/*.dll
+src/AC8AssetPatcher/assets/AC8IoStoreLoader/main.dll
+
+# .NET outputs
+**/bin/
+**/obj/
+src/AC8AssetPatcher/dist/
+src/AC8AssetPatcher/work/
+src/AC8AssetPatcher/*.user
+src/AC8AssetPatcher/*.suo
+
+# Native loader outputs
+src/AC8IoStoreLoader/*.dll
+src/AC8IoStoreLoader/*.exe
+src/AC8IoStoreLoader/*.obj
+src/AC8IoStoreLoader/*.pdb
+src/AC8IoStoreLoader/*.lib
+src/AC8IoStoreLoader/*.exp
+src/AC8IoStoreLoader/*.map
+
+# Local logs and archives
+*.log
+*.zip

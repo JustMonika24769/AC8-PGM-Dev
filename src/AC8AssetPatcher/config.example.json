@@ -1,0 +1,32 @@
+{
+  "gamePath": "D:\\SteamLibrary\\steamapps\\common\\ACE COMBAT 8",
+  "aesKey": "auto",
+  "modName": "AC8PGMDirect_P",
+  "player": {
+    "qaam": 1.0,
+    "saam": 0.95,
+    "2aam": 0.95,
+    "laam": 0.9,
+    "sasm": 0.9,
+    "4aam": 0.9,
+    "6aam": 0.9,
+    "hvaa": 0.85,
+    "hcaa": 0.8,
+    "hpaa": 0.75,
+    "msl": 0.8
+  },
+  "enemy": {
+    "qaam": 0.3,
+    "saam": 0.3,
+    "laam": 0.3,
+    "2aam": 0.3,
+    "msl": 0.25,
+    "4aam": 0.25,
+    "6aam": 0.25,
+    "8aam": 0.25,
+    "hcaa": 0.25,
+    "hvaa": 0.25,
+    "sasm": 0.25,
+    "hpaa": 0.2
+  }
+}
